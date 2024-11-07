@@ -1,10 +1,6 @@
-title: Documentation Template
+title: Документация RBI
 links:
-  - title: About
-    href: about.md
-  - title: Diplodoc page on index page
-    href: page.md
-  - title: YFM Structure on index page
-    href: anotherpage.md
-  - title: Sub-section on index page
-    href: sub-section/
+  - title: Назначение ПК
+    href: content\chapter_1_1.md
+  - title: Требования к программной и аппаратной конфигурации ЭВМ пользователя
+    href: content\chapter_1_4.md
